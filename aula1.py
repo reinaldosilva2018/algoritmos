@@ -1,4 +1,5 @@
 n1=int(input("Digite primeiro numero"))
 n2=int(input("Digite segundo numero"))
-soma=n1+n2
+n3=int(input("Digite segundo numero"))
+soma=n1+n2+n3
 print("a soma e:", soma)
